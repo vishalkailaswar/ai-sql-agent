@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlalchemy
+faker
+langchain
+langchain-google-genai
+pyarrow
